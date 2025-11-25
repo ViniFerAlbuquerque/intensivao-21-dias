@@ -1,1 +1,0 @@
-console.log('Desenvolvedor em ação!')
